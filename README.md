@@ -29,7 +29,9 @@ go build main.go
 ## Comparación Runtime
 
 Runtime sin gorutines
+
 ![It doesn't have gorutine](https://i.imgur.com/JYtYErU.png)
 
 Runtime con gorutines
+
 ![It has gorutine](https://i.imgur.com/yNRUbMy.png)
