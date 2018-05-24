@@ -26,7 +26,7 @@ go build main.go
 ./main [portNum]
 ```
 
-## Comparative Runtime
+## Comparación Runtime
 
 Runtime sin gorutines
 ![It doesn't have gorutine](https://i.imgur.com/JYtYErU.png)
